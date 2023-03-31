@@ -1,0 +1,35 @@
+* ACTOR
+class Actor{
+
+String name;
+int age;
+float height;
+String gender;
+string language;
+
+
+void dancing(){
+}
+void acting(){
+}
+void fighting(){
+}
+void advertising(){
+}
+publiv static void main (String args[]){
+Actor a1 = new Actor();
+a1.dancing();
+a1.acting();
+a1.fighting();
+a1.advertising();
+}
+}
+
+
+* CAKE
+class cake{
+String shape;
+String color;
+double weight;
+string flavour;
+}
